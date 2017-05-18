@@ -1,6 +1,7 @@
 <template>
 	<div>
-		{{message}}
+		<p>{{message}}</p>
+		<el-button type="primary">主要按钮</el-button>
 	</div>
 </template>
 
@@ -8,7 +9,7 @@
 export default {
 	data() {
 		return {
-			message: 'Hello Vue 2.0'
+			message: 'Hello LinXiaoBao'
 		}
 	}
 }
