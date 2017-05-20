@@ -1,5 +1,5 @@
 <template>
  <div>
-  <h1>我是pageB...</h1>
+  <h3>我是pageB...</h3>
  </div>
 </template>
